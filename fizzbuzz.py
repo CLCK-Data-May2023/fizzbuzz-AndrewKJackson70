@@ -8,7 +8,5 @@ for num in range(1,100):
         string = string + "Fizz"
     elif num % 5 == 0:
         string = string + "Buzz"
-    elif num % 5 != 0 and num % 3 != 0:
-        string = string + str(num)
     print(string)   
    
