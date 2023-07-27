@@ -1,5 +1,5 @@
 # add your code here
-#FizzBuzz Challenge. Written by Andrew Jackson
+#FizzBuzz Challenge. coded by Andrew Jackson
 for i in range(1, 101):
     if i % 3 == 0:
         if i % 5 == 0:
